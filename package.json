@@ -1,6 +1,6 @@
 {
   "name": "jammin-eslint-config-web",
-  "version": "0.1.12",
+  "version": "0.0.0",
   "main": "index.js",
   "files": [
     "*.json",
