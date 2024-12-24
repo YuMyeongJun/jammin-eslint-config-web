@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "CommonJS Library",
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "lib": [
+      "ESNext",
+      "DOM"
+    ],
+    "module": "CommonJS",
+    "target": "ES6"
+  }
+}
